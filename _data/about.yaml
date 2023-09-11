@@ -14,9 +14,8 @@ title: >
 authors: >
   with Shaili Mathur, Griffin Chure and Jonas Cremer
 Welcome!: >
-
-This is the course website for the mini-course BIOS 261. We provide information about the course and will link course materials here once the class begins! 
+  This is the course website for the mini-course BIOS 261. We provide information about the course and will link course materials here once the class begins! 
 About the course: > 
-The deluge of data common in modern biological research poses new challenges for ensuring reproducibility and collaboration at many levels. High-powered computational and statistical tools are becoming as indispensable as pipettes and flasks, demanding a rethinking of what it means to be rigorous and reproducible in the generation, visualization, and interpretation of results. In this mini-course, we will explore key concepts in how data should be stored, analyzed, manipulated, and presented using computational tools such as the Python programming language and GitHub version control software at a hands-on level, guiding students through a mini research project. This is an introductory course that assumes no previous knowledge of programming or statistics, and is especially relevant for students or postdocs interested in developing a skill set for quantitative biology.
+  The deluge of data common in modern biological research poses new challenges for ensuring reproducibility and collaboration at many levels. High-powered computational and statistical tools are becoming as indispensable as pipettes and flasks, demanding a rethinking of what it means to be rigorous and reproducible in the generation, visualization, and interpretation of results. In this mini-course, we will explore key concepts in how data should be stored, analyzed, manipulated, and presented using computational tools such as the Python programming language and GitHub version control software at a hands-on level, guiding students through a mini research project. This is an introductory course that assumes no previous knowledge of programming or statistics, and is especially relevant for students or postdocs interested in developing a skill set for quantitative biology.
 
   
