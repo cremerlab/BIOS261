@@ -33,4 +33,4 @@ plugins:
 
 # Files to exclude from the website build. You may not want to include all data
 # files for example.
-exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock", "data_files"]
+exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock", "data_files", "page02_code_data.md"]
